@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-04-27 15:59:00-0400
+date: 2023-04-19 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-My braces came off. Yay for straight teeth!
+Attended a talk about Machine Learning for Healthcare research.
