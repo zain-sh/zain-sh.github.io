@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: A long announcement with details
 date: 2022-11-07 16:11:00-0400
 inline: false

@@ -16,9 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a student in the Department of Mathematics and Statistics, and the School of Computer Science at McGill University. I will be graduating with a Major in Statistics and Minor in Computer Science in the 2023-2024 academic year. 
+I am a student in the [Department of Mathematics and Statistics](https://www.mcgill.ca/mathstat/), and the [School of Computer Science](https://www.cs.mcgill.ca/) at [McGill University](https://www.mcgill.ca/). I will be graduating with a Major in Statistics and Minor in Computer Science in the 2023-2024 academic year. 
 
-My academic interests broadly include data, health, and social sciences. Outside of school, I enjoy travel, hiking, fashion, and music. I have a bass guitar collecting dust which I've been meaning to put to use.
+My academic interests broadly include data, public health, and social sciences. Outside of school, I enjoy travel, hiking, fashion, and music. I have a bass guitar collecting dust which I've been meaning to put to use.
 
 
 
